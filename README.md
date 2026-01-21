@@ -30,7 +30,7 @@ A full CRUD web application for managing **agents**, **clients**, **properties (
 - PHP (mysqli), MySQL, Bootstrap
 
 **Repo**
-- `[https://github.com/<your-username>/<repo>](https://github.com/HudAli23/Evergreen-Estate)`
+- `(https://github.com/HudAli23/Evergreen-Estate)`
 
 ---
 

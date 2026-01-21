@@ -1,6 +1,6 @@
 # Hi, I'm Josh! 👋
 
-Software Developer | Systems Builder | Problem Solver
+Software engineer
 
 ---
 

@@ -110,6 +110,5 @@ Software engineering roles where I can contribute to:
 ---
 
 ## Connect
-- GitHub: https://github.com/<your-username>
-- LinkedIn: <your-link>
-- Portfolio: <your-link>
+- GitHub: https://github.com/HudAli23
+- LinkedIn: https://www.linkedin.com/in/huddaifah-ali-b45a98265
